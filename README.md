@@ -1,7 +1,7 @@
 # Food Delivery Application User-Interface
 <br><br>
 A minimalistic UI design using figma for a Food Delivery Application.<br><br>
-Used black Black, Red and White colors for creating a decent contrast.<br><br>
+Used black Black, Red and White colours for creating a decent contrast.<br><br>
 It consists of 3 pages:<br>
 1- Homescreen<br>
 2- Menu<br>
